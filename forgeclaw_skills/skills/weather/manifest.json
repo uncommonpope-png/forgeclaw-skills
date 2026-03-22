@@ -1,0 +1,7 @@
+{
+  "name": "weather",
+  "description": "Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temperature, or forecasts for any location. NOT for: historical weather data, severe weather alerts, or ",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.156Z"
+}

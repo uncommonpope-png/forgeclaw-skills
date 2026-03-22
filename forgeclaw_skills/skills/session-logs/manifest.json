@@ -1,0 +1,7 @@
+{
+  "name": "session-logs",
+  "description": "Search and analyze your own session logs (older/parent conversations) using jq.",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.137Z"
+}

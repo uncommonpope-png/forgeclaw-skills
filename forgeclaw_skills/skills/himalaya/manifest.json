@@ -1,0 +1,7 @@
+{
+  "name": "himalaya",
+  "description": "CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search, and organize emails from the terminal. Supports multiple accounts and message composition with MML (MIM",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.096Z"
+}

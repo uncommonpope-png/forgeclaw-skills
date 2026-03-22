@@ -1,0 +1,7 @@
+{
+  "name": "coding-agent",
+  "description": "Delegate coding tasks to Codex, Claude Code, or Pi agents via background process. Use when: (1) building/creating new features or apps, (2) reviewing PRs (spawn in temp dir), (3) refactoring large cod",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.072Z"
+}

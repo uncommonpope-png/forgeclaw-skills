@@ -1,0 +1,7 @@
+{
+  "name": "node-connect",
+  "description": "Diagnose OpenClaw node connection and pairing failures for Android, iOS, and macOS companion apps. Use when QR/setup code/manual connect fails, local Wi-Fi works but VPS/tailnet does not, or errors me",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.104Z"
+}

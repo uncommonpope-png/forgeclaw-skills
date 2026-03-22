@@ -1,0 +1,7 @@
+{
+  "name": "eightctl",
+  "description": "Control Eight Sleep pods (status, temperature, alarms, schedules).",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.076Z"
+}

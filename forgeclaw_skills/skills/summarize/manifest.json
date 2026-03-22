@@ -1,0 +1,7 @@
+{
+  "name": "summarize",
+  "description": "Summarize or extract text/transcripts from URLs, podcasts, and local files (great fallback for “transcribe this YouTube/video”).",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.145Z"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imsg",
+  "description": "iMessage/SMS CLI for listing chats, history, and sending messages via Messages.app.",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.098Z"
+}

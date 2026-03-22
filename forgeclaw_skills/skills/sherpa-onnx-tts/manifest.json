@@ -1,0 +1,7 @@
+{
+  "name": "sherpa-onnx-tts",
+  "description": "Local text-to-speech via sherpa-onnx (offline, no cloud)",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.138Z"
+}

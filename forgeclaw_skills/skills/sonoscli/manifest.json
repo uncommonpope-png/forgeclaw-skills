@@ -1,0 +1,7 @@
+{
+  "name": "sonoscli",
+  "description": "Control Sonos speakers (discover/status/play/volume/group).",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.142Z"
+}

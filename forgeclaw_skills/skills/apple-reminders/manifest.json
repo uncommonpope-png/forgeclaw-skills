@@ -1,0 +1,7 @@
+{
+  "name": "apple-reminders",
+  "description": "Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output.",
+  "version": "1.0.0",
+  "source": "OpenClaw (MIT License)",
+  "extracted": "2026-03-22T07:16:54.053Z"
+}
